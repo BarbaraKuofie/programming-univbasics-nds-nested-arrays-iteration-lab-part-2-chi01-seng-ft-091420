@@ -15,4 +15,5 @@ while row_index < src.count do
  cold_days << min_value
  row_index += 1 
 end
+cold_days
 end 
